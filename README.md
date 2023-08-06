@@ -11,7 +11,7 @@ Installation can be performed in a variety of ways:
 
 1. Prepackaged binaries will be able to be installed directly (ok not yet, but very soon)
 2. The application can be built manually using the below instructions.
-
+3. Clone repository
 ### Prepackaged
 
 No binaries are available currently, as we are in the process of obtaining signing certificates.
